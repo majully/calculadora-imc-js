@@ -1,7 +1,3 @@
-# calculadora-imc-js
-Projeto calculadora de IMC desenvolvida com JavaScript.
-
-
 # Projeto calculadora de IMC - Explorer Stage 05
 Projeto calculadora de IMC desenvolvida com JavaScript.
 
